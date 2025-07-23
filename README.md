@@ -1,17 +1,22 @@
-# AI Circular Economy Advisor
+# 🌀 Circular Economy Advisor for Small Tourism Businesses
 
-This educational project explores how AI can assist small businesses in the hospitality and tourism sectors with circular economy strategies.
+This project provides a simple AI-based chatbot designed to support small hospitality businesses (e.g. guesthouses, eco-accommodations) in applying circular economy principles. The chatbot gives practical advice in Slovak, focusing on sustainability and ecological practices.
 
-## Structure
+---
 
-- `notebook/`: interactive Jupyter notebook using OpenAI API to provide personalized sustainability advice
-- `data/`: space for datasets or case studies
-- `insights/`: markdown summaries and reusable student reflections
+## 💡 Key Features
 
-## Usage
+- Uses a modern large language model (LLM) via Groq API.
+- Answers user questions in **Slovak**.
+- Designed for **non-technical users** – suitable for training and awareness-raising.
+- Based on an interactive **Jupyter Notebook**.
 
-To use the notebook, you will need an OpenAI API key. Make sure to install the required libraries from `requirements.txt`.
+---
 
-## Goal
+## 🚀 How to Run
 
-To integrate real-world AI examples into the Circular and Shared Economy course using tools such as Jupyter, GitHub, and conversational AI.
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/lucia-malickova/cirkularna_ekonomika.git
+cd cirkularna_ekonomika

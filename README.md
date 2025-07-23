@@ -1,21 +1,23 @@
-# 🌀 Circular Economy Advisor for Small Tourism Businesses
+# 🌍 Circular Economy Advisor
 
-This project provides a simple AI-based chatbot designed to support small hospitality businesses (e.g. guesthouses, eco-accommodations) in applying circular economy principles. The chatbot gives practical advice in Slovak, focusing on sustainability and ecological practices.
+An AI-powered assistant for small hospitality and tourism businesses focused on sustainability, circular and sharing economy.
 
----
+## 🤖 What It Does
 
-## 💡 Key Features
+This project uses the [Groq](https://console.groq.com/) API with the **LLaMA 3 model** and a simple Gradio interface to provide practical advice on topics such as:
 
-- Uses a modern large language model (LLM) via Groq API.
-- Answers user questions in **Slovak**.
-- Designed for **non-technical users** – suitable for training and awareness-raising.
-- Based on an interactive **Jupyter Notebook**.
+- Reducing waste in restaurants
+- Using reusable packaging
+- Collaborating with local communities
+- Promoting eco-tourism
+- More sustainable business practices
 
----
+## 🚀 How to Run Locally
 
-## 🚀 How to Run
-
-1. **Clone the repository**:
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/lucia-malickova/cirkularna_ekonomika.git
+   cd cirkularna_ekonomika
 
 ```bash
 git clone https://github.com/lucia-malickova/cirkularna_ekonomika.git
